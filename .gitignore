@@ -1,0 +1,27 @@
+# Virtual env
+py312_pfizer_tel_cls/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# pickle
+churn_model.pkl
+
+# data
+WA_Fn-UseC_-Telco-Customer-Churn.csv
